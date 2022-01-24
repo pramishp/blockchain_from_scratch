@@ -1,4 +1,4 @@
-name = "Blocker"
+name = "blockchain_from_scratch"
 authors = ["Nishar Arjyal, Prakash Chaulagain, Pramish Paudel"]
 [compat]
 julia = "1.6.3"
